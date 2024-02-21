@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "jsonwebtoken": "npm:jsonwebtoken",
+    "buffer": "node:buffer",
+    "supabase": "npm:@supabase/supabase-js"
+  }
+}
